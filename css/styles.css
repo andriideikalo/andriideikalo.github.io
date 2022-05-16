@@ -1,0 +1,89 @@
+
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: grey;;
+
+}
+/* @import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap'); */
+
+
+.main {
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: white;
+    box-shadow: 6px 6px 20px rgba(15, 15, 15, 0.1);
+    width: 1400px;
+    margin: 0 auto;
+    padding: 40px;
+}
+
+.content-work,
+.content-asidebar {
+    margin-left: 20px;
+
+}
+.about {
+    width: 950px;
+    text-align: justify;
+}
+.company {
+    color: grey;
+}
+.list {
+    padding: 0;
+    margin-left: 25px;
+}
+
+.asidebar {
+    background-color: #94979c;
+    padding-top: 40px;
+    width: 370px;
+}
+.content-asidebar {
+   color: rgb(15, 15, 15);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 24px;
+}
+.tel-mail {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 24px;
+   color: white;
+    opacity: 0,1;
+    
+}
+.text-decoration {
+text-decoration: none;
+font-weight: bold;
+
+}
+.list-asidebar {
+    color: #FB6D3A;
+    padding: 0;
+    margin-left: 25px;
+}
+.soft-hard {
+    color: white;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+.img-sap-sharePoint {
+    background-color: white;
+}
+.photo {
+
+    width: 370px;
+    height: 400px;
+    margin-bottom: 50px;
+    margin-top: 0px;
+
+    /* padding: 50px 50px; */
+    /* width: 40px;
+    height: 40px; */
+}
